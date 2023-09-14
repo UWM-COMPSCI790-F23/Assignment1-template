@@ -114,11 +114,10 @@ In this step, you are going to add a C# script that animates one of the 3D objec
 
 Graded out of 10 points. 
 
-1. Platform settings configured correctly (1)
-2. Submission includes APK file (1)
-3. Project runs on the Quest (4)
-4. Scene contains at least four new objects (2)
-5. One of the objects is animated (2)
+1. Submission includes APK file (2)
+1. Project runs on the Quest (4)
+1. Scene contains at least four new objects (2)
+1. One of the objects is animated (2)
 
 ## Submission
 
